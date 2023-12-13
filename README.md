@@ -1,10 +1,10 @@
 
 ```bash
-git clone https://github.com/kdrakibbd/Quran.git
+git clone https://github.com/kdrakibbd/Learning-Quran.git
 
 ```
 
---> Move into the directory where we have the project files : 
+--> Move into the directory where we have the project files :
 ```bash
 cd Quran
 
